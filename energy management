@@ -1,0 +1,10 @@
+ funtional splits in lte
+ they are 8 types of funtional splits between control unit and distribution unit
+ they are
+ rlc
+ rrc
+ pdcp
+ mac
+ phy
+ rf
+ 
